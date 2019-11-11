@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements IGetvalue, IOnCli
         adapter.setiOnClick(this);
         recyclerview.setLayoutManager(new LinearLayoutManager(this));
         recyclerview.setAdapter(adapter);
+        //sssssss
 
     }
 
